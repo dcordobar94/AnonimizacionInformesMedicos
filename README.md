@@ -7,3 +7,7 @@ El proyecto se compone de:
 
 2. CódigoTFM. Se encuentra el código realizado para el proyecto y los documentos utilizados. 
   Se ha realizado en Python 3.7. Se apoya principalmente en la librería de spaCy para PLN que usa el corpus AnCora y WikiNER como entrenamiento para textos en español, y la librería CRFsuite para entrenamiento de un modelo de Conditional Random Field.
+
+# Resumen
+
+El presente trabajo propone un modelo supervisado que usa los CRFs junto con indicaciones específicas, expresiones regulares y diccionarios para la identificación de información de salud protegida (Protected Health Information o PHI) en los informes de la tarea MEDDOCAN. Finalmente, el sistema de este trabajo (0.94) podríamos considerar que la propuesta no ha estado mal encaminada. 
