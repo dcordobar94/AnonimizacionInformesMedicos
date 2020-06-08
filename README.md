@@ -10,4 +10,4 @@ El proyecto se compone de:
 
 # Resumen
 
-El presente trabajo propone un modelo supervisado que usa los CRFs junto con indicaciones específicas, expresiones regulares y diccionarios para la identificación de información de salud protegida (Protected Health Information o PHI) en los informes de la tarea MEDDOCAN. Finalmente, el sistema de este trabajo (0.94) podríamos considerar que la propuesta no ha estado mal encaminada. 
+El presente trabajo propone un modelo supervisado que usa los CRFs (Conditional Random Fields) junto con indicaciones específicas, expresiones regulares y diccionarios para la identificación de información de salud protegida (Protected Health Information o PHI) en los informes de la tarea de desafío de MEDDOCAN. Finalmente, el sistema de este trabajo ha obtenido un F1-score de 0.94, frente al 0.97491 de Bosch Center for Artificial Intelligence (Germany) ganador de esta tarea. Por tanto, podríamos considerar que la propuesta no ha estado mal encaminada. 
